@@ -71,7 +71,7 @@
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
-            <TitledBorder title="Menghitung Nilai Rata Rata, Created by : Muh Bintang Mahardani - 17225123 Kelas : 17.2A.26 ">
+            <TitledBorder title="Menghitung Nilai Rata Rata, Created by : Muh Bintang Mahardani - 17225123, Kelas : 17.2A.26 ">
               <Font PropertyName="font" name="Berlin Sans FB Demi" size="18" style="1"/>
             </TitledBorder>
           </Border>
