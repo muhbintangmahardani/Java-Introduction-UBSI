@@ -134,7 +134,7 @@ public class Menghitung_Nilai_RataRata extends javax.swing.JFrame {
                             .addComponent(jLabel2)
                             .addGap(18, 18, 18)
                             .addComponent(tNilai1, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))))
-                .addContainerGap(106, Short.MAX_VALUE))
+                .addContainerGap(55, Short.MAX_VALUE))
         );
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
