@@ -65,7 +65,7 @@ public class Menghitung_Nilai_RataRata extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel2.setBackground(new java.awt.Color(153, 153, 255));
+        jPanel2.setBackground(new java.awt.Color(255, 255, 51));
         jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Menghitung Nilai Rata Rata, Created by : Muh Bintang Mahardani - 17225123, Kelas : 17.2A.26 ", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Berlin Sans FB Demi", 1, 18))); // NOI18N
 
         jLabel2.setFont(new java.awt.Font("Humanst521 Lt BT", 1, 12)); // NOI18N
